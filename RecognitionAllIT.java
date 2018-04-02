@@ -29,7 +29,7 @@ import org.xml.sax.SAXException;
 
 /**
  *
- * @author florenthaxha
+ * @author
  */
 @RunWith(Parameterized.class)
 public class RecognitionAllIT {
